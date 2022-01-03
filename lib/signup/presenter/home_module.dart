@@ -1,5 +1,5 @@
 import 'package:flutter_modular/flutter_modular.dart';
-import 'package:social_login/home/ui/home_page.dart';
+import 'package:social_login/signup/ui/home_page.dart';
 
 class HomeModule extends Module {
   @override
