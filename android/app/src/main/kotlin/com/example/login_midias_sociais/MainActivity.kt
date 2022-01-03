@@ -1,4 +1,4 @@
-package com.example.login_midias_sociais
+package br.com.cledson_leite.social_login
 
 import io.flutter.embedding.android.FlutterActivity
 

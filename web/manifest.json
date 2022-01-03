@@ -1,6 +1,6 @@
 {
-    "name": "login_midias_sociais",
-    "short_name": "login_midias_sociais",
+    "name": "Social Login",
+    "short_name": "Social Login",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

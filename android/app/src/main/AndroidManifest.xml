@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.login_midias_sociais">
+    package="br.com.cledson_leite.social_login">
    <application
-        android:label="login_midias_sociais"
+        android:label="Social Login"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

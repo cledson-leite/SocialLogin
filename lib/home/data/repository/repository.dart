@@ -1,4 +1,4 @@
-import 'package:login_midias_sociais/home/domain/usecases/i_usecase.dart';
+import 'package:social_login/home/domain/usecases/i_usecase.dart';
 
 class Repository implements IUsecase{
 
