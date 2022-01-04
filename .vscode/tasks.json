@@ -3,7 +3,7 @@
   "tasks": [
     {
       "label": "Coverage Report",
-      "command": "genhtml coverage/lcov.info --output=./coverage && open coverage/index.html",
+      "command": "perl /c/ProgramData/chocolatey/lib/lcov/tools/bin/genhtml coverage/lcov.info -o coverage/html",
       "type": "shell",
     },
   ],
