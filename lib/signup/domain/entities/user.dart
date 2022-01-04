@@ -14,24 +14,5 @@ class User extends Equatable {
   });
 
   @override
-  List<Object?> get props => [
-        id,
-        name,
-        email,
-        imageUrl,
-      ];
-
-  User copyWith({
-    String? id,
-    String? name,
-    String? email,
-    String? imageUrl,
-  }) {
-    return User(
-      id: id ?? this.id,
-      name: name ?? this.name,
-      email: email ?? this.email,
-      imageUrl: imageUrl ?? this.imageUrl,
-    );
-  }
+  List<Object> get props => [id, name, email, imageUrl];
 }
